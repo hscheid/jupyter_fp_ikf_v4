@@ -1,3 +1,6 @@
+# requirements for jupyter notebook
+# necessary to run in binder
+
 matplotlib==3.3.3
 numpy==1.19.5
 scipy==1.6.0
