@@ -9,7 +9,7 @@ To have as little as possible requirements to the students the notebook can be r
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hscheid/jupyter_fp_ikf_v4/main?labpath=Analysis_part3_py.ipynb)
 
-###Todo:
+### Todo:
 * Write some more introduction
 * Update the analog manual (pdf)
 * Include parts 1 and 2 of the experiment in the notebook, or add specific notebooks for them
